@@ -1,0 +1,4 @@
+module "Instances" {
+
+  source        = "./Instances"
+}
